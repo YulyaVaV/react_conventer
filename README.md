@@ -5,8 +5,11 @@ Currency Converter
 
 
 -All calculations are made immediately.
+
 -After changing currencies, the amount will be reset to 1.
+
 -Rounding adds realism to the calculations.
+
 -On this currency converter, you will not see an impossible result, for example 0.0001 UAH
 
 
