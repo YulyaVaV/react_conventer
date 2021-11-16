@@ -12,7 +12,7 @@
 
 ### -On this currency converter, you will not see an impossible result, for example 0.0001 UAH
 
-
+-----------------------------------
 
 React, HTML, SCSS
 -----------------------------------
