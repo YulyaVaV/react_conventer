@@ -24,7 +24,6 @@ Node v12.16.3 and higher
 
 NPM v6.14.4 and higher
 
-...
 
 Installing
 -----------------------------------
@@ -35,5 +34,4 @@ Run npm install in your terminal
 
 Run npm start
 
-...
 
