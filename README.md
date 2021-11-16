@@ -17,6 +17,8 @@ Currency Converter
 React, HTML, SCSS
 
 
+
+
 Dependencies
 
 Node v12.16.3 and higher
