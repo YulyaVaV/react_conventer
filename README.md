@@ -1,16 +1,16 @@
 - [DEMO LINK HERE](https://yulyavav.github.io/react_conventer/)
 
 
-##Currency Converter
+## Currency Converter
 
 
-###-All calculations are made immediately.
+### -All calculations are made immediately.
 
-###-After changing currencies, the amount will be reset to 1.
+### -After changing currencies, the amount will be reset to 1.
 
-###-Rounding adds realism to the calculations.
+### -Rounding adds realism to the calculations.
 
-###-On this currency converter, you will not see an impossible result, for example 0.0001 UAH
+### -On this currency converter, you will not see an impossible result, for example 0.0001 UAH
 
 
 
