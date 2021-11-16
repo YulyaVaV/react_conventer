@@ -1,7 +1,6 @@
-- [DEMO LINK HERE](https://yulyavav.github.io/react_conventer/)
-
-
 ## Currency Converter
+
+- [DEMO LINK HERE](https://yulyavav.github.io/react_conventer/)
 
 
 #### -All calculations are made immediately.
